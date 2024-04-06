@@ -1,0 +1,4 @@
+db:
+  db_name: kad_todo
+  db_user: postgres
+  db_password: postgres

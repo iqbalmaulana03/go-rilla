@@ -1,0 +1,11 @@
+listen:
+  host: 127.0.0.1
+  port: 8080
+
+db:
+  db_name: todo
+  db_user: postgres
+  db_password: postgres
+  host: 127.0.0.1
+  port: 5432 
+  ssl_mode: disable
